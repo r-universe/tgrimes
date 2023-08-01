@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dnapath"]
-	path = dnapath
-	url = https://github.com/cran/dnapath
 [submodule "SeqNet"]
 	path = SeqNet
 	url = https://github.com/cran/SeqNet
+[submodule "dnapath"]
+	path = dnapath
+	url = https://github.com/cran/dnapath
