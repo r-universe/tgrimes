@@ -5,6 +5,3 @@
 [submodule "SeqNet"]
 	path = SeqNet
 	url = https://github.com/cran/SeqNet
-[submodule "dnapath"]
-	path = dnapath
-	url = https://github.com/cran/dnapath
